@@ -15,5 +15,9 @@
   },
   "devDependencies": {
     "@red-cup-engineering/jsnode-package-services-section": "workspace:*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/jsnode-package-scaffold-service.git"
   }
 }
